@@ -6,4 +6,3 @@ Full-Stack developer 🚀 . Passionate about technology, programming and coffee�
 
 💼[Linkedin](https://www.linkedin.com/in/alessandro-a-8047a6175/) 
 
-📧[Email](aledev21@gmail.com)

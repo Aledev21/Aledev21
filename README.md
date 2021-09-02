@@ -15,6 +15,6 @@ Full-Stack developer 🚀 . Passionate about technology, programming and coffee�
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Gutscaipira" src="<div class="tenor-gif-embed" data-postid="20437576" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kafama-s%C4%B1k%C4%B1cam-tnd-siegray-guts-berserk-gif-20437576">Kafama Sıkıcam Tnd Sticker</a>from <a href="https://tenor.com/search/kafama+s%C4%B1k%C4%B1cam-stickers">Kafama Sıkıcam Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+    <img align="right" alt="Gutscaipira" src="https://tenor.com/view/kafama-s%C4%B1k%C4%B1cam-tnd-siegray-guts-berserk-gif-20437576?utm_source=share-button&utm_medium=Social&utm_content=twitter ">
 
   <div>

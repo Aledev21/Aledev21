@@ -1,7 +1,5 @@
 
 
-https://user-images.githubusercontent.com/69284759/131764862-31d522f8-781b-4828-a814-319166006437.mp4
-
 
 
 ### Hi there 👋 I'm Alessandro Assis 

@@ -1,4 +1,8 @@
-![tumblr_mj4cnnNWLE1qkgxf0o1_200](https://user-images.githubusercontent.com/69284759/131764600-3193e625-e0a9-4d9c-9753-a25ee07d9c6e.gif)
+
+
+https://user-images.githubusercontent.com/69284759/131764862-31d522f8-781b-4828-a814-319166006437.mp4
+
+
 
 ### Hi there 👋 I'm Alessandro Assis 
  <div>

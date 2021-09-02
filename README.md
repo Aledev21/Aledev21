@@ -15,6 +15,10 @@ Full-Stack developer ðŸš€ . Passionate about technology, programming and coffeeð
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  ![Alt Text](https://media.giphy.com/media/105TPTlFrqaW1G/giphy.gif?cid=ecf05e47fod598ijmj33wl7pu48upu1zwpt7r07399cytm6f&rid=giphy.gif&ct=g)
+
+
+  
     
   ##
   <div>

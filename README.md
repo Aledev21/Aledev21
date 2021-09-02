@@ -18,7 +18,6 @@ Full-Stack developer ðŸš€ . Passionate about technology, programming and coffeeð
     
   <div>
 
-   ##
 
 
   <a href = "aledev21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

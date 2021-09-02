@@ -15,6 +15,6 @@ Full-Stack developer ðŸš€ . Passionate about technology, programming and coffeeð
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Gutscaipira" src="https://tenor.com/view/kafama-s%C4%B1k%C4%B1cam-tnd-siegray-guts-berserk-gif-20437576?utm_source=share-button&utm_medium=Social&utm_content=twitter ">
-
+    
+  <iframe src="https://giphy.com/embed/pUp9Nb1czvHMY" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/berserk-guts-pUp9Nb1czvHMY">via GIPHY</a></p>
   <div>

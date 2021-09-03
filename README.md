@@ -21,7 +21,7 @@
   <a href="https://in.linkedin.com/in/rafaelcamarda" target="_blank">
     <img align="left" alt="aledev21 | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/rafacamarda" target="_blank">
+  <a href="https://twitter.com/Anxjjand" target="_blank">
     <img align="left" alt="aledev21 | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="mailto:rf.camarda@gmail.com">

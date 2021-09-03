@@ -19,8 +19,12 @@
    
  ### ☕ Entre em contato
   <div>
-  <a href = "mailto:aledev21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:aledev21@gmail.com">
+    <img align="left" alt="Rafael | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
+   
   <a href="https://www.linkedin.com/in/alessandro-a-8047a6175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
     <a href="https://twitter.com/Anxjjand" target="_blank">
     <img align="left" alt="Rafael | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
   </a>

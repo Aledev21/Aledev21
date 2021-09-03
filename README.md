@@ -18,7 +18,7 @@
 <div>
    
  ### ☕ Entre em contato
-  <a href="https://in.linkedin.com/in/rafaelcamarda" target="_blank">
+  <a href="https://in.linkedin.com/in/alessandro-a-8047a6175" target="_blank">
     <img align="left" alt="aledev21 | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/Anxjjand" target="_blank">

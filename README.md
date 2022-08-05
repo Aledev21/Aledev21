@@ -8,24 +8,10 @@
   Desenvolvedor FullStack
 </p>
 
-### 🌻 Sobre mim:
-
-<p>
-  <em>
-    Tenho 23 anos, sou do Rio de Janeiro e estou seguindo uma jornada para me tornar um desenvolvedor.
-  </em>
-</p>
 
 - 🌱 Atualmente estou aprendendo Typescript, NextJS, Node, Mongo.
 - 🚀 Estudante da Rocketseat.
 - 📫 Meu email: aledev21@gmail.com
-
-
-### 📊 Metas 2022:
-
-- 📂 Expandir meu portfólio
-
-- 🤝 Contribuir em projetos open-source
 
 
 ### ⚡ Tecnologias:

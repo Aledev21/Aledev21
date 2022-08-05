@@ -1,30 +1,54 @@
+<h1 align='center'>
+  Olá, sou o Alessandro Assis!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
+
+<p align='center'>
+  Desenvolvedor FullStack
+</p>
+
+### 🌻 Sobre mim:
+
+<p>
+  <em>
+    Tenho 18 anos, sou de São Paulo e estou seguindo uma jornada para me tornar um desenvolvedor.
+  </em>
+</p>
+
+- 🌱 Atualmente estou aprendendo Typescript, NextJS, Node, Mongo.
+- 🚀 Estudante da Rocketseat.
+- 📫 Meu email: aledev21@gmail.com
 
 
+### 📊 Metas 2022:
+
+- 📂 Expandir meu portfólio
+
+- 🤝 Contribuir em projetos open-source
 
 
-### Hi 👋 I'm Alessandro Assis 
- <div>
-  <a href="https://github.com/aledev21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aledev21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+### ⚡ Tecnologias:
 
-</div>
- 
- <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Estas são algumas das tecnologias e ferramentas que trabalho:
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,nodejs,firebase
+)](https://skillicons.dev)
+
+### 📈 Minhas Estatísticas
+
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=aledev21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aledev21_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+💬 Quer me conhecer?
+
 <div>
-   
- ### ☕ Entre em contato
-  <a href="https://in.linkedin.com/in/alessandro-a-8047a6175" target="blank">
-    <img align="left" alt="aledev21 | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/Anxjjand" target="blank">
-    <img align="left" alt="aledev21 | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="mailto:aledev21@gmail.com">
-    <img align="left" alt="aledev21 | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
-  </a>
+  <a href="https://www.linkedin.com/in/aledev21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "aledev21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+ 
+</div>
+<br>
+<p>🧠 <spam style="font-style:italic">"Se você busca muito alguma coisa, é de certo que deixará outras no meio do caminho."</spam></p>
 

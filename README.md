@@ -1,16 +1,13 @@
 <h1 align='center'>
   Olá, sou o Alessandro Assis!
   <br/>
-  Bem vindo a minha página :)
+
 </h1>
 
 <p align='center'>
   Desenvolvedor FullStack
 </p>
 
-
-- 🌱 Atualmente estou aprendendo Typescript, NextJS, Node, Mongo.
-- 🚀 Estudante da Rocketseat.
 - 📫 Meu email: aledev21@gmail.com
 
 

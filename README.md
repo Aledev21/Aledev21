@@ -20,8 +20,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 ### 📈 Minhas Estatísticas
 
-| Minhas Estatísticas                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Estatísticas                                                                                                                                                                                                                                                                                                                       
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=aledev21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&theme=jolly) |  |
 
 💬 Quer me conhecer?

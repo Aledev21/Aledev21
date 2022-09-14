@@ -20,9 +20,9 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 ### 📈 Minhas Estatísticas
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| Minhas Estatísticas                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=aledev21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aledev21_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=aledev21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&theme=jolly) |  |
 
 💬 Quer me conhecer?
 
